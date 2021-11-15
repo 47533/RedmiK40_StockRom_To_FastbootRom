@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/21.11.12/miui_ALIOTH_21.11.12_81bf1a1296_12.0.zip
-  ROM_Version: miui21.11.12
+  ROM_URL: https://bigota.d.miui.com/21.11.3/miui_ALIOTH_21.11.3_e3b9010b2a_12.0.zip
+  ROM_Version: miui21.11.3
   TZ: Asia/Shanghai
 
 jobs:
